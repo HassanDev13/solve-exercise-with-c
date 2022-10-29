@@ -2,6 +2,13 @@
 #include <ctype.h>
 #include <string.h>
 
+
+
+
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+
 void exo1Calculatrice(){
     int number1, number2 , result ;
     int addition = 1 , soustraction = 2 , multiplication = 3 , division = 4;
